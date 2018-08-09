@@ -1,0 +1,5 @@
+{
+	"cmd": ["C:\\Users\\phili\\Miniconda3\\pkgs\\python-3.6.5-h0c2934d_0\\python.exe", "-u", "$file"],
+	"file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+    "selector": "source.python"
+}
